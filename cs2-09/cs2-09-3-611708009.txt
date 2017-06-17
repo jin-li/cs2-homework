@@ -1,0 +1,72 @@
+# lijin>./cs2-09-16-611708009                                                                                       10:17:50  2017-06-17
+Enter operation code: i
+Enter part number: 20
+Enter part name: n1
+Enter quantity on hand: 32
+
+Enter operation code: i
+Enter part number: 18
+Enter part name: n2
+Enter quantity on hand: 89
+
+Enter operation code: i
+Enter part number: 100
+Enter part name: n3
+Enter quantity on hand: 75
+
+Enter operation code: i
+Enter part number: 55
+Enter part name: n4
+Enter quantity on hand: 120
+
+Enter operation code: i
+Enter part number: 108
+Enter part name: n5
+Enter quantity on hand: 90
+
+Enter operation code: i
+Enter part number: 3
+Enter part name: n6
+Enter quantity on hand: 10
+
+Enter operation code: p
+Part Number    Part Name                Quantity on Hand
+      3        n6                                10
+     18        n2                                89
+     20        n1                                32
+     55        n4                               120
+    100        n3                                75
+    108        n5                                90
+
+Enter operation code: e
+Enter part number: 3
+Part 3 was erased.
+
+Enter operation code: p
+Part Number    Part Name                Quantity on Hand
+     18        n2                                89
+     20        n1                                32
+     55        n4                               120
+    100        n3                                75
+    108        n5                                90
+
+Enter operation code: e
+Enter part number: 108
+Part 108 was erased.
+
+Enter operation code: p
+Part Number    Part Name                Quantity on Hand
+     18        n2                                89
+     20        n1                                32
+     55        n4                               120
+    100        n3                                75
+
+Enter operation code: e
+Enter part number: 55
+Part 55 was erased.
+
+Enter operation code: p
+Part Number    Part Name                Quantity on Hand
+     18        n2                                89
+     20        n1                                32
+    100        n3                                75
