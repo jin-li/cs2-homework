@@ -1,0 +1,12 @@
+# LI Jin>cl .\cs2-10-15-611708009.c
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.10.25019 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+cs2-10-15-611708009.c
+Microsoft (R) Incremental Linker Version 14.10.25019.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:cs2-10-15-611708009.exe
+cs2-10-15-611708009.obj
+# LI Jin>.\cs2-10-15-611708009.exe
+Inserte El Disco 1
