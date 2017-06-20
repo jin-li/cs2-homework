@@ -14,7 +14,7 @@ int main()
     printf("The value of f(10) is %d if f has never been called before.\n", result1);
 
     int k;
-    for (k = 0; k < 4; k++)
+    for (k = 0; k < 5; k++)
     {
         result2 = f(10);
     }
