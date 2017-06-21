@@ -10,4 +10,4 @@ Copyright (C) Microsoft Corporation.  All rights reserved.
 cs2-10-4-611708009.obj
 # LI Jin>.\cs2-10-4-611708009.exe
 The value of f(10) is 0 if f has never been called before.
-The value of f(10) is 40 if f has been called five times previously. 
+The value of f(10) is 50 if f has been called five times previously. 
